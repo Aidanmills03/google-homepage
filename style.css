@@ -1,0 +1,86 @@
+html {
+  font-family: arial;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+#images {
+  position: fixed;
+  right: 40px;
+}
+#mail {
+  position: fixed;
+  right: 100px;
+}
+
+#about {
+  position: fixed;
+  left: 10px;
+}
+
+#store {
+  position: fixed;
+  left: 80px;
+}
+
+.navigation {
+  font-size: 14px;
+  padding: 10px;
+}
+
+#logo {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+}
+
+.search-box {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 350px;
+  height: 30px;
+}
+
+.buttons {
+  width: 400px;
+	margin: 30px auto;
+  position:absolute;
+  top: 40%;
+  left: 39%;
+  padding-top: 1%;
+}
+
+#advertising {
+  position: fixed;
+  top: 97%;
+  left: 3%;
+}
+
+#business {
+  position: fixed;
+  top: 97%;
+  left: 13%;
+}
+
+#privacy {
+  position: fixed;
+  top: 97%;
+  right: 17%;
+}
+
+#terms {
+  position: fixed;
+  top: 97%;
+  right: 10%;
+}
+
+#settings {
+  position: fixed;
+  top: 97%;
+  right: 3%;
+}
